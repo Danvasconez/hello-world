@@ -1,4 +1,4 @@
 # hello-world
-Test 1 
+Test 1
 Hey Dan here!!!
-Just ccheikng this out. I am teaching myself how to use GitHub!!!!
+I hope this works better.
